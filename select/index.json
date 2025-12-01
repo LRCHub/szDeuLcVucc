@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "TOKYO-STATION",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2025-12-01T16:19:55.447964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tokyo Station",
+      "artist": "Taiyo Ky",
+      "has_synced": true,
+      "path": "select/01_Tokyo_Station_Taiyo_Ky.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tokyo Station - 東京駅",
+      "artist": "mikitoP",
+      "has_synced": false,
+      "path": "select/02_Tokyo_Station_-_東京駅_mikitoP.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOKYO-STATION",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_TOKYO-STATION_伊東歌詞太郎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Tokyo Station",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_02_Tokyo_Station_伊東歌詞太郎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "TOKYO-STATION",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_03_TOKYO-STATION_伊東歌詞太郎.txt"
+    }
+  ]
+}
